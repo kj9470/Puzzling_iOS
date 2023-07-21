@@ -726,43 +726,74 @@ final class MyViewController: UIViewController, UITableViewDataSource, UITableVi
 <details>
 <summary> 🐸 정 </summary>
 <div markdown="1">
+
+[🐸 뷰 및 기능](https://www.notion.so/kwonjeong/f8651318d9d146d58271b5578b930196?pvs=4)
+</div>
 </details>
 	
 <details>
 <summary> 😼 민주 </summary>
 <div markdown="1">
+	
+[😼 뷰 및 기능](https://www.notion.so/kwonjeong/12be9e89c7574c2797820d2a9c7ef407?pvs=4)
+</div>
 </details>
   
 <details>
 <summary> 🦊 규보 </summary>
 <div markdown="1">
+
+[🦊 뷰 및 기능](https://www.notion.so/kwonjeong/0f902051a9f34de8bb3d46bf9ed9bdca?pvs=4)
+
+</div>
 </details>
   
 <details>
 <summary> 🐰 성우 </summary>
 <div markdown="1">
+
+ [🐰 뷰 및 기능](https://www.notion.so/kwonjeong/7706c7ab5fda47d2a5433b454295eb17?pvs=4)
+
+</div>
 </details>
   
 <br>
 	
-## 💭 프로젝트 회고
+## 💭 트러블 슈팅
 <details>
 <summary> 📄 정 </summary>
 <div markdown="1">
+
+[🐸 트러블 슈팅](https://www.notion.so/kwonjeong/ea2bb6c681d54499b1b5cbb93e7709d3?pvs=4)
+
+</div>
 </details>
-	
+
 <details>
 <summary> 📄 민주 </summary>
 <div markdown="1">
+	
+[😼 트러블 슈팅](https://www.notion.so/kwonjeong/a3853c701bbe405693de3302db297b32?pvs=4)
+
+</div>
 </details>
-  
+
 <details>
 <summary> 📄 규보 </summary>
 <div markdown="1">
+
+[🦊 트러블 슈팅](https://www.notion.so/kwonjeong/fdc2301a42494512aa11988f2b3cc2fe?pvs=4)
+
+</div>
 </details>
+
   
 <details>
 <summary> 📄 성우 </summary>
 <div markdown="1">
+	
+[🐰 트러블 슈팅](https://www.notion.so/kwonjeong/a1416047c230452c9a61d07e393e29f7?pvs=4)
+
+</div>
 </details>
 
